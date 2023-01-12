@@ -41,5 +41,5 @@
 </div>
 <br>
 <div align="center">
-   <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="60" /> with <img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="50" /> by ToxicNN
+   <img src="images/samurai.gif" width="480" height="270" />
 </div>
