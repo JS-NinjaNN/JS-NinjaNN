@@ -22,14 +22,14 @@
 <br>
 <h2 align="center"> 🔥 Stats </h2>
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToxicNN&theme=tokyonight" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JS-Samurai&theme=tokyonight" />
 </div>
 <br>
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToxicNN&theme=tokyonight" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToxicNN&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JS-Samurai&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JS-Samurai&theme=tokyonight" />
 <br>
-<img src="https://www.codewars.com/users/ToxicNN/badges/large" />
+<img src="https://www.codewars.com/users/JS-Samurai/badges/large" />
 </div>
 <br>
 <h2 align="center"> Other </h2>
