@@ -14,8 +14,16 @@
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=F7DF1E">&nbsp;
   <br>
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61DAFB">&nbsp;
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=181717">&nbsp;
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&animation=spin&svgfill=6540a0">&nbsp;
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=017acc">&nbsp;
+  <br>
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ESLint&svgfill=4c33c1">&nbsp;
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=75afcc">&nbsp;
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jquery&svgfill=78cff5">&nbsp;
+  <br>
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=181717">&nbsp;
   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jest&svgfill=C21325">&nbsp;
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Sass&svgfill=cc6699">&nbsp;
 </div>
 <br><br>
 
