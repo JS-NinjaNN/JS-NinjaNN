@@ -42,7 +42,9 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
 <div align="center">
 
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JS-NinjaNN&repo=Hexlet-chat&theme=tokyonight)](https://github.com/JS-NinjaNN/Hexlet-chat)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JS-NinjaNN&repo=Hexlet-chat&theme=tokyonight)](https://github.com/JS-NinjaNN/Task-manager)
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JS-NinjaNN&repo=rss-reader&theme=tokyonight)](https://github.com/JS-NinjaNN/rss-reader)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JS-NinjaNN&repo=rss-reader&theme=tokyonight)](https://github.com/JS-NinjaNN/Page-loader)
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JS-NinjaNN&repo=GenDiff&theme=tokyonight)](https://github.com/JS-NinjaNN/GenDiff)
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JS-NinjaNN&repo=Brain-Games&theme=tokyonight)](https://github.com/JS-NinjaNN/Brain-Games)
 </div>
